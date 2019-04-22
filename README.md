@@ -1,5 +1,5 @@
 # Exploratory data analysis using Python
-![](Project_BCS/Images/EDA2.png)
+![](Project_BCS/Images/EDA5.png)
 
 # Project_BCS
 ## Breast Cancer Survival
