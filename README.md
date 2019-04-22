@@ -5,4 +5,4 @@
 Breast Cancer Survival
 
 ![](Project_BCS/Images/Hosp.jpg)
-![](Project_BCS/Images/Cancer.png)
+![](Project_BCS/Images/Canc.jpeg)
