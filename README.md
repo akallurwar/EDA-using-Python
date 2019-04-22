@@ -18,3 +18,6 @@ The dataset contains cases from a study that was conducted between __1958 and 19
 | Number of positive axillary nodes detected | Numerical Value |
 | Survival status (class attribute) | (1 = the patient survived 5 years or longer, 2 = the patient died within 5 year)
 
+## PROJECT ANALYSIS
+| Description | Analysis |
+| --- | --- |
