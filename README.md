@@ -23,6 +23,8 @@ Here in the dataset, each row represents a patient, each column contains patient
 | Survival status (class attribute) | (1 = the patient survived 5 years or longer, 2 = the patient died within 5 year)
 
 ## Data Insights
+![](Project_BCS/Images/Insights.jpg)
+
 This is what we analysed after feature engineering:
 
 - Of total,73% patients survived. 
