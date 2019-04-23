@@ -20,6 +20,12 @@ EDA ia a critical and first step in analyzing the data and we do this for below 
     
     - Detection of mistakes 
 
+## Repository Overview
+
+This repository is about Exploratory data analysis as per the industry practices.
+
+## Table of Contents
+### Breast Cancer Survival
 
 # Project Details
 ## Breast Cancer Survival
