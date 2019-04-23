@@ -27,7 +27,8 @@ This repository is about Exploratory data analysis as per the industry practices
 ## Table of Contents
 ### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/tree/master#Breast)
 
-# Project Details
+___
+
 ### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/tree/master/Project_BCS)
 
 
