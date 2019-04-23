@@ -4,7 +4,7 @@ __Exploratory Data Analysis(EDA)__ includes __cleaning__, __munging__, __combini
 
 ![](Project_BCS/Images/EDA.png)
 
- #### Exploratory Data Analysis
+ ### Exploratory Data Analysis
  
 Understand the data by EDA and derive simple models with Pandas as baseline.
 
@@ -20,15 +20,15 @@ EDA ia a critical and first step in analyzing the data and we do this for below 
     
     - Detection of mistakes 
 
-### Repository Overview
+## Repository Overview
 
 This repository is about Exploratory data analysis as per the industry practices.
 
-### Table of Contents
-#### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/blob/master/README.md#breast-cancer-survival-1)
+## Table of Contents
+### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/blob/master/README.md#breast-cancer-survival-1)
 
 ___
 
-#### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/tree/master/Project_BCS)
+### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/tree/master/Project_BCS)
 
 ![](Project_BCS/Images/BS.jpg)
