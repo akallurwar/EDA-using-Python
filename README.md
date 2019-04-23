@@ -31,4 +31,4 @@ ___
 
 #### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/tree/master/Project_BCS)
 
-
+![](Project_BCS/Images/BS.jpg)
