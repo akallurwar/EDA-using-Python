@@ -4,7 +4,7 @@ __Exploratory Data Analysis(EDA)__ includes __cleaning__, __munging__, __combini
 
 ![](Project_BCS/Images/EDA.png)
 
- __Exploratory Data Analysis__
+ #### Exploratory Data Analysis
  
 Understand the data by EDA and derive simple models with Pandas as baseline.
 
