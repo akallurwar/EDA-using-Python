@@ -1,4 +1,4 @@
-# Exploratory data analysis using Python
+## Exploratory data analysis using Python
 
 __Exploratory Data Analysis(EDA)__ includes __cleaning__, __munging__, __combining__, __reshaping__, __slicing__, __dicing__, and __transforming data__ for analysis purpose.
 
@@ -20,15 +20,15 @@ EDA ia a critical and first step in analyzing the data and we do this for below 
     
     - Detection of mistakes 
 
-## Repository Overview
+### Repository Overview
 
 This repository is about Exploratory data analysis as per the industry practices.
 
-## Table of Contents
-### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/tree/master#Breast)
+### Table of Contents
+#### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/blob/master/README.md#Breast)
 
 ___
 
-### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/tree/master/Project_BCS)
+#### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/tree/master/Project_BCS)
 
 
