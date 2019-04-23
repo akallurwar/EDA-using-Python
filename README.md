@@ -25,7 +25,7 @@ EDA ia a critical and first step in analyzing the data and we do this for below 
 This repository is about Exploratory data analysis as per the industry practices.
 
 ## Table of Contents
-### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/blob/master/README.md#breast-cancer-survival-1)
+### * [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/blob/master/README.md#breast-cancer-survival-1)
 
 ___
 
