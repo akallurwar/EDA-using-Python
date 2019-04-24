@@ -2,7 +2,7 @@
 
 __Exploratory Data Analysis(EDA)__ includes __cleaning__, __munging__, __combining__, __reshaping__, __slicing__, __dicing__, and __transforming data__ for analysis purpose.
 
-![](Project_BCS/Images/EDA.png)
+![](Project_BCS/Images/eda1.png)
 
  ### Exploratory Data Analysis
  
