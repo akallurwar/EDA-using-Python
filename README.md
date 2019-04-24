@@ -31,7 +31,7 @@ ___
 
 ### [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/tree/master/Project_BCS)
 
-![](Project_BCS/Images/Cancer.jpg)
+![](Project_BCS/Images/Breast-Cancer.jpg)
 
 * The objective of this analysis is to get insights from the data whether the patient will survive after 5 years or not based upon the patient’s age, year of operation and the number of positive axillary nodes.
 
