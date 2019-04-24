@@ -35,7 +35,7 @@ ___
 
 * The objective of this analysis is to get insights from the data whether the patient will survive after 5 years or not based upon the patient’s age, year of operation and the number of positive axillary nodes.
 
-* [Link for PPT](https://github.com/akallurwar/EDA-using-Python/blob/master/Project_BCS/Project.pptx)
+* [Link for PPT](https://github.com/akallurwar/EDA-using-Python/blob/master/Project_BCS/Project_Audio%26Narration.pptx)
 
 * [Link for Jupyter notebook](https://github.com/akallurwar/EDA-using-Python/blob/master/Project_BCS/Project_Breast_cancer_survival.ipynb)
 
