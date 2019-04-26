@@ -1,7 +1,6 @@
 # Breast Cancer Survival
 
 ![](Images/Hosp.jpg)
-![](Images/Canc.jpeg)
 
 ## Introduction
 The dataset contains cases from a study that was conducted between __1958 and 1970__ at __the University of Chicago's Billings Hospital__ on the survival of patients who had undergone __surgery for breast cancer__.
