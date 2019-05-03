@@ -42,5 +42,6 @@ ___
 
 [HR Analytics_Attrition](https://github.com/akallurwar/EDA-using-Python/tree/master/HR%20Analytics)
 
-![](HR Analytics/images/download.png)
+![](HR%20Analytics/images/download.png)
+
 ### Projects in Execution
