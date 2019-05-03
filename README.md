@@ -26,6 +26,7 @@ This repository is about Exploratory data analysis as per the industry practices
 
 ## Table of Contents
 * [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/blob/master/README.md#breast-cancer-survival)
+* [HR Analytics_Attrition]
 
 ___
 
@@ -39,4 +40,5 @@ ___
 
 * [Link for Jupyter notebook](https://github.com/akallurwar/EDA-using-Python/blob/master/Project_BCS/Project_Breast_cancer_survival.ipynb)
 
+[HR Analytics_Attrition]
 ### Projects in Execution
