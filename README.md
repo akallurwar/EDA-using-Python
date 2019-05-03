@@ -26,7 +26,7 @@ This repository is about Exploratory data analysis as per the industry practices
 
 ## Table of Contents
 * [Breast Cancer Survival](https://github.com/akallurwar/EDA-using-Python/blob/master/README.md#breast-cancer-survival)
-* [HR Analytics_Attrition]
+* [HR Analytics_Attrition](https://github.com/akallurwar/EDA-using-Python/blob/master/README.md#hr-analytics_attrition)
 
 ___
 
@@ -43,5 +43,10 @@ ___
 ### [HR Analytics_Attrition](https://github.com/akallurwar/EDA-using-Python/tree/master/HR%20Analytics)
 
 ![](HR%20Analytics/images/download.png)
+
+* Attrition is a problem that impacts all businesses, irrespective of geography, industry and size of the company. Employee attrition leads to significant costs for a business, including the cost of business disruption, hiring new staff and training new staff. As such, there is great business interest in understanding the drivers of, and minimizing staff attrition.
+
+* [Link for Jupyter notebook](
+
 
 ### Projects in Execution
