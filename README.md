@@ -40,5 +40,7 @@ ___
 
 * [Link for Jupyter notebook](https://github.com/akallurwar/EDA-using-Python/blob/master/Project_BCS/Project_Breast_cancer_survival.ipynb)
 
-[HR Analytics_Attrition]
+[HR Analytics_Attrition](https://github.com/akallurwar/EDA-using-Python/tree/master/HR%20Analytics)
+
+![](HR Analytics/images/download.png)
 ### Projects in Execution
