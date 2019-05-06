@@ -1,5 +1,7 @@
 # HR Analytics_Attrition
 
+Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these programs is to __increase the effectiveness__ of their employees. 
+
 ![](images/HR-Analytics.jpg)
 
 This data set presents an employee survey from IBM, indicating if there is attrition or not. The data set contains approximately 1500 entries.
